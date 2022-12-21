@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+table,tr,th,td{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+.heading{
+    background-color:red;
+}
+.row1{
+    background-color: salmon;
+}
+.row2{
+    background-color: aliceblue;
+}
+.row3{
+    background-color: grey;
+}
